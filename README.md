@@ -25,13 +25,13 @@ I'm thinking that a rolling concept might work best, so have a simple media cons
 We can get a sturdy wheeled media console, and a custom TV mount that secures down into the media console, and can be raised and swiveled. 
 
 Examples of media console:
-https://www.wayfair.com/furniture/pdp/trent-austin-design-cayenne-entertainment-center-tadn4678.html
-https://www.wayfair.com/furniture/pdp/trent-austin-design-arlington-46-tv-stand-tadn8808.html
-https://www.wayfair.com/furniture/pdp/scott-living-55-tv-stand-sctl1385.html
-https://www.amazon.com/dp/B075ZCLPXP?aaxitk=.G.sMy3BQJSmWqS4X0NhXg&pd_rd_i=B075ZCLPXP&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=3930100107420870094&pf_rd_s=desktop-sx-top-slot&pf_rd_t=301&pf_rd_i=wheeled+media+console&hsa_cr_id=6816312150601
+
+* https://www.wayfair.com/furniture/pdp/trent-austin-design-cayenne-entertainment-center-tadn4678.html
+* https://www.wayfair.com/furniture/pdp/trent-austin-design-arlington-46-tv-stand-tadn8808.html
+* https://www.wayfair.com/furniture/pdp/scott-living-55-tv-stand-sctl1385.html
+* https://www.amazon.com/dp/B075ZCLPXP?aaxitk=.G.sMy3BQJSmWqS4X0NhXg&pd_rd_i=B075ZCLPXP&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=3930100107420870094&pf_rd_s=desktop-sx-top-slot&pf_rd_t=301&pf_rd_i=wheeled+media+console&hsa_cr_id=6816312150601
 
 ### Streaming
-
 
 Sign up for services uses Roku. Apple TV would work fine, Fire TV would probably too. 
 
