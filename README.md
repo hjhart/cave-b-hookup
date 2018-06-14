@@ -2,16 +2,16 @@
 
 ## Table of Contents
 
-* Audio
+* [Audio](#audio)
   * Indoor Audio
   * TV / Indoor integration
   * Outdoor Audio (optional)
   * Record player, vinyl
-* Internet / WiFi
-* Television
+* [Television](#television)
   * Cable (watching sports)
   * Streaming
-* Security (optional)
+* [Internet / WiFi](#internet)
+* [Security](#security) (optional)
 * Other considerations
 * Plans
 
@@ -28,7 +28,7 @@ This gives you internet radio, spotify, [tidal](https://www.sonos.com/en-us/tida
 ### Record Player
 
 ![maple](https://github.com/hjhart/cave-b-hookup/raw/master/images/maple-orbit.png "Logo Title Text 1")
-![walnut](https://github.com/hjhart/cave-b-hookup/raw/master/images/walnut.png "Logo Title Text 1")
+![walnut](https://github.com/hjhart/cave-b-hookup/raw/master/images/walnut-orbit.png "Logo Title Text 1")
 
 Open questions:
 
