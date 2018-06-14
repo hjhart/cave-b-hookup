@@ -27,9 +27,11 @@ We can get a sturdy wheeled media console, and a custom TV mount that secures do
 Examples of media console:
 
 * https://www.wayfair.com/furniture/pdp/trent-austin-design-cayenne-entertainment-center-tadn4678.html
-![type 1](https://github.com/hjhart/cave-b-hookup/raw/master/src/images/media-console-option-1.png "Logo Title Text 1")
+![type 1](https://github.com/hjhart/cave-b-hookup/raw/master/images/media-console-option-1.png "Logo Title Text 1")
 * https://www.wayfair.com/furniture/pdp/trent-austin-design-arlington-46-tv-stand-tadn8808.html
+![type 2](https://github.com/hjhart/cave-b-hookup/raw/master/images/media-console-option-2.png "Logo Title Text 1")
 * https://www.amazon.com/dp/B075ZCLPXP?aaxitk=.G.sMy3BQJSmWqS4X0NhXg&pd_rd_i=B075ZCLPXP&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=3930100107420870094&pf_rd_s=desktop-sx-top-slot&pf_rd_t=301&pf_rd_i=wheeled+media+console&hsa_cr_id=6816312150601
+![type 3](https://github.com/hjhart/cave-b-hookup/raw/master/images/media-console-option-3.png "Logo Title Text 1")
 
 ### Streaming
 
