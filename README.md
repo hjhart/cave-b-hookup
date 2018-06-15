@@ -10,10 +10,10 @@
 * [Television](#television)
   * Cable (watching sports)
   * Streaming
-* [Internet / WiFi](#internet)
+* [Internet / WiFi](#internet--wifi)
 * [Security](#security) (optional)
 * Other considerations
-* Plans
+* [Plans](#plans)
 
 ## Audio
 
@@ -29,6 +29,11 @@ This gives you internet radio, spotify, [tidal](https://www.sonos.com/en-us/tida
 
 ![maple](https://github.com/hjhart/cave-b-hookup/raw/master/images/maple-orbit.png "Logo Title Text 1")
 ![walnut](https://github.com/hjhart/cave-b-hookup/raw/master/images/walnut-orbit.png "Logo Title Text 1")
+
+Some good furniture options inside this article:
+
+https://www.homedit.com/vinyl-record-storage/
+
 
 Open questions:
 
