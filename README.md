@@ -19,8 +19,8 @@
 
 Sonos driven. Everything is wireless and driven by your phones.
 
-* TV sound bar (newer $400 version)
-* Play 5 ($499)
+* TV sound bar (newer $400 version) not released yet
+* [Play 5](https://amzn.to/2taSabz) ($499)
 * Record player ($529)
 
 This gives you internet radio, spotify, [tidal](https://www.sonos.com/en-us/tidal-on-sonos), amazon music.
@@ -45,7 +45,7 @@ You can either go with a Connect AMP ($500) and then wire up some really good ou
 
 OR
 
-Get a Sonos One ($149) and keep it in your bedroom, when you're not using it, bring it outside. It's not as convenient, but it sounds pretty damn good and it's an easy, cheaper, solution.
+Get a [Sonos One](https://amzn.to/2t8yzsj) ($149) or [Alexa integrated](https://amzn.to/2JDxRP9) ($199) and keep it in your bedroom, when you're not using it, bring it outside. It's not as convenient, but it sounds pretty damn good and it's an easy, cheaper, solution.
 
 ## Television
 
@@ -87,7 +87,7 @@ Let's try this out and if that doesn't work, we can figure out which streaming s
 
 ## Internet / WiFi
 
-So you will have access to Fiber, we'll need to rent / purchase a modem to pick up that fiber connection. Likely CenturyLink will be providing the fiber.
+So you will have access to Fiber, you'll get a modem from CenturyLink or whatever provider is over there.
 
 Best Wireless Router: [Netgear AC2300](https://amzn.to/2sYaPI4)
 
@@ -106,6 +106,7 @@ Do you want cameras installed inside or outside?
 * Surge protectors
 * Smaller audio cables (Audio in to Sonos Play 5)
 * Smaller video cables (HDMI from TV to sonos)
+* Can upgrade and get a subwoofer from Sonos (probably not necessary for $699)
 
 ## Plans
 
